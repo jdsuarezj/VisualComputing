@@ -11,6 +11,7 @@ void setup() {
   pg1 = createGraphics(400, 400);
   movie = new Movie(this, "globos.mp4");
   movie.loop();
+  textSize(32);
 }
 
 void grayScaleRGB(PGraphics pg, Movie movie){
