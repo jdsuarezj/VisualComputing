@@ -1,9 +1,5 @@
 /*
-* ascii.pde
-*
-* By: Marcelo Escamilla
-*
-* use Up and Down keys to control the program's precision. A higher precision
+* Use Up and Down keys to control the program's precision. A higher precision
 * means a "lower resolution" ascii image, meanwhile a lower precision (min value = 1)
 * is a "higher resolution" ascii image. You can experiment by adding different
 * characters to the letters string.

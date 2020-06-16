@@ -1,8 +1,4 @@
 /*
-*filters.pde
-*
-* By: Marcelo Escamilla
-*
 * Use Up and Down key to sort through the 
 * various filters and convolution masks 
 * programmed here. The name will be displayed

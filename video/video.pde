@@ -24,12 +24,12 @@ void grayScale(PGraphics pg, Movie movie){
     m = movie.get();
     m.resize(400,400);
   
-  for (int loc = 0; loc < m.width * m.height; loc++) {
+  for (int i = 0; i < m.width * m.height; i++) {
     colorMode(HSB,100);
-    float H = hue(m.pixels[loc]);
-    float S = saturation(m.pixels[loc]);
-    float Br = brightness(m.pixels[loc]);
-    m.pixels[loc] = color(Br);   
+    float H = hue(m.pixels[i]);
+    float S = saturation(m.pixels[i]);
+    float Br = brightness(m.pixels[i]);
+    m.pixels[i] = color(Br);   
   }
   
   m.updatePixels();

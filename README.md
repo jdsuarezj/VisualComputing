@@ -14,11 +14,25 @@ En el campo del procesamiento de imagenes, un factor importante es entender como
 
 ### Conversión a ascii
 **Descripción:** Implementacion por software para generar una imagen con caracteres ascii. Muestra una ventana con la imagen original a la derecha y la imagen ascii a la izquierda. Se puede usar las flechas arriba y abajo para cambiar la precisión de la imagen ascii.
+#### Resultado
+![Ascii](Resultados/Ascii.png)
 ### Filtros
 **Descripción:**  Implementacion por software para generar imágenes en escala de grises y algunas mascaras de convolucion (*repujado y detección de bordes*) Se puede navegar por los filtros implementados con las flechas arriba y abajo. El nombre del filtro se imprime en la esquina superior izquierda.
+#### Resultado
+![Ascii](Resultados/Filtros-Edge.png)
+![Ascii](Resultados/Filtros-embossed.png)
+![Ascii](Resultados/Filtros-gray.png)
 ### Despliegue de Histograma en imagen
-**Descripción:** Se muestra un histograma en la imagen resultante junto con un filtro.
+**Descripción:** Se muestra un histograma en la imagen resultante junto con un filtro, con la segmentación interactiva reflejada en la imagen, al hacer click sobre el histograma y mover el mouse se selecciona el único segmento de pixeles que se quiere pintar de la imagen.
 ### Medición de eficacia computacional.
+#### Resultado
+![Ascii](Resultados/Histograma.png)
 **Descripción:** Implementacion por software para generar video en escala de grises y medición de FPS.
-## Resultados
+#### Resultado
+![Ascii](Resultados/Video.png)
+
 ## Conlusiones
+
+El procesamiento de imagenes y video nos brinda un panorama grande en cuanto a aprendizaje se refiere, ya que no solo entendemos como se procesa una imagen o como se dibuja en la pantalla, tambien entender como desde la investigación y academía se ha podido entregar herramientas y ayudas a otras áreas del conocimiento y profesiones, como es el caso de la fotografía y producción audiovisual. Las transformaciones en las imagenes las tenemos día a día, ya sea con un filtro en instagram, o editando la iluminación de nuestra foto de atardecer o un video. Ademas, la información util que podemos sacar de una imagen y brindarle más ayudas al fotografo o diseñador.
+
+En resumen, entiendo más sobre las imágenes, podemos desarrollar mucho más en cuanto a gráficos por computador y el ámplio mundo que le rodea. 
