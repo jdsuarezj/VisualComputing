@@ -24,9 +24,10 @@ En el campo del procesamiento de imagenes, un factor importante es entender como
 ![Ascii](Resultados/Filtros-gray.png)
 ### Despliegue de Histograma en imagen
 **Descripción:** Se muestra un histograma en la imagen resultante junto con un filtro, con la segmentación interactiva reflejada en la imagen, al hacer click sobre el histograma y mover el mouse se selecciona el único segmento de pixeles que se quiere pintar de la imagen.
-### Medición de eficacia computacional.
 #### Resultado
 ![Ascii](Resultados/Histograma.png)
+
+### Medición de eficacia computacional.
 **Descripción:** Implementacion por software para generar video en escala de grises y medición de FPS.
 #### Resultado
 ![Ascii](Resultados/Video.png)
