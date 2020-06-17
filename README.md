@@ -10,7 +10,7 @@ El procesamiento de imagenes en general como una técnica que se aplica a las im
 ## Objetivo
 Implementar diversas soluciones para el procesamiento de imagenes y video, aplicando transformaciones y diversas ténicas para ello.
 ## Metodología
-En el campo del procesamiento de imagenes, un factor importante es entender como se representan realmente las imagenes, es aquí donde el algebra lineal y sus bases nos ayudan a entender como una *matriz bidimencional* representan la intensidad de la luz y la reflectividad de la superficie. Para este taller, se implementaron distintas tecnias tanto en imágenes como en video.
+En el campo del procesamiento de imagenes, un factor importante es entender como se representan realmente las imagenes, es aquí donde el algebra lineal y sus bases nos ayudan a entender como una *matriz bidimensional* representan la intensidad de la luz y la reflectividad de la superficie. Para este taller, se implementaron distintas tecnias tanto en imágenes como en video.
 
 ### Conversión a ascii
 **Descripción:** Implementacion por software para generar una imagen con caracteres ascii. Muestra una ventana con la imagen original a la derecha y la imagen ascii a la izquierda. Se puede usar las flechas arriba y abajo para cambiar la precisión de la imagen ascii.
