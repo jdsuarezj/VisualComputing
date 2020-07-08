@@ -17,8 +17,8 @@ Campo vectorial como lo conocemos normalmente:
 ![VF](CamposVectoriales/Resultados/VectorField.png)
 
 #### Resultado 
-![Vader](CamposVectoriales/Resultados/Heisen.gif)
-![Heisen](CamposVectoriales/Resultados/vader.gif)
+![Heisen](CamposVectoriales/Resultados/Heisen.gif)
+![Vader](CamposVectoriales/Resultados/Vader.gif)
 ![input](CamposVectoriales/Resultados/Input.png)
 
 ### Quaterniones.
