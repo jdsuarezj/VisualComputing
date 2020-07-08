@@ -27,7 +27,7 @@ Campo vectorial como lo conocemos normalmente:
 ## Diseño
 utilizando la libreria nub, creamos un giroscopio. Este consiste de cinco nodos: El primero es el nodo de referencia, los tres siguientes representan un rotor del giroscopio y el ultimo representa un objeto que cambia de orientacion acorde a los rotores. 
 
-![nodos](CamposVectoriales/Resultados/nodos.png)
+![nodos](CamposVectoriales/Resultados/nodos.PNG)
 
 Al igual que un giroscopio real, cada nodo depende del nodo exterior, hasta llegar al objeto que depende de todos los nodos. Se agrego interactividad por medio de teclas y del mouse para que el usuario pueda explorar el sistema de tres grados de libertad.
 
@@ -35,14 +35,14 @@ Al igual que un giroscopio real, cada nodo depende del nodo exterior, hasta lleg
 
 El sistema emula angulos de Euler: Una manera bastante intuitiva de definir un desplazamiento angular usando un conjunto de tres angulos. En este ejemplo, cada rotor del sistema de color rojo, verde y azul representa uno de estos angulos.
 
-![giroscopio](CamposVectoriales/Resultados/giroscopio.png)
+![giroscopio](CamposVectoriales/Resultados/giroscopio.PNG)
 
 Si bien esta es una de las formas mas faciles de representar un desplazamiento angular (en comparación con las matrices y cuaterniones) tiene sus complicaciones. Debido a la naturaleza ciclica de los angulos, para un desplazamiento se tienen multiples ternas de angulos que lo representan.
 
 otro problema, el cual se busca visualizar en el sistema es el "bloqueo de Cardán" lo cual consiste en la perdida de un grado de libertad cuando dos de los rotores se encuentran en paralelo. Esto hace que el sistema solo pueda moverse en dos dimensiones mientras los dos rotores estan en paralelo.
 
 ### Resultado
-![cardan](CamposVectoriales/Resultados/cardan.png)
+![cardan](CamposVectoriales/Resultados/cardan.PNG)
 
 ## Conlusiones
 
